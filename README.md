@@ -1,2 +1,2 @@
 # react-guidelines
-Guide lines to better alignment draggable children in React.
+Guide lines to better align draggable children in React.
